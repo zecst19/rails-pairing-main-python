@@ -1,0 +1,13 @@
+[
+    {
+        "model": "hello.Vehicle",
+        "pk": 51,
+        "fields": {
+            "name": "Vehicle 51",
+            "status": 0,
+            "frame_size": 71,
+            "legal_identifier": "1",
+            "model_id": 4
+        }
+    }
+]

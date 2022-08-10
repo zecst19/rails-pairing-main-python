@@ -1,0 +1,30 @@
+[
+    {
+        "model": "hello.Brand",
+        "pk": 1,
+        "fields": {
+            "name": "Honda"
+        }
+    },
+    {
+        "model": "hello.Brand",
+        "pk": 2,
+        "fields": {
+            "name": "Yamaha"
+        }
+    },
+    {
+        "model": "hello.Brand",
+        "pk": 3,
+        "fields": {
+            "name": "Zoomo"
+        }
+    },
+    {
+        "model": "hello.Brand",
+        "pk": 4,
+        "fields": {
+            "name": "nothng"
+        }
+    }
+]

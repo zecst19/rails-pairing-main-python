@@ -1,0 +1,50 @@
+[
+    {
+        "model": "hello.Model",
+        "pk": 1,
+        "fields": {
+            "name": "Cx 1",
+            "brand_id": 1
+        }
+    },
+    {
+        "model": "hello.Model",
+        "pk": 2,
+        "fields": {
+            "name": "PP 50",
+            "brand_id": 4
+        }
+    },
+    {
+        "model": "hello.Model",
+        "pk": 3,
+        "fields": {
+            "name": "L99",
+            "brand_id": 2
+        }
+    },
+    {
+        "model": "hello.Model",
+        "pk": 4,
+        "fields": {
+            "name": "42",
+            "brand_id": 3
+        }
+    },
+    {
+        "model": "hello.Model",
+        "pk": 5,
+        "fields": {
+            "name": "Best",
+            "brand_id": 4
+        }
+    },
+    {
+        "model": "hello.Model",
+        "pk": 6,
+        "fields": {
+            "name": "Lower",
+            "brand_id": 4
+        }
+    }
+]
